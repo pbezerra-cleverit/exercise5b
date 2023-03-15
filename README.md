@@ -92,7 +92,7 @@ For now, we'll focus on staging. We'll spin up and destroy our environment in a 
 </details>
 
 
-<details id=2 open>
+<details id=2>
 <summary><h2>Step 2: Set up an Azure environment</h2></summary>
 
 _Good job getting started :gear:_
@@ -420,7 +420,7 @@ The second job destroys Azure resources so that you do not use your free minutes
 
 </details>
 
-<details id=4>
+<details id=4 open>
 <summary><h2>Step 4: Deploy to a staging environment based on labels</h2></summary>
 
 _Nicely done, you used a workflow to spin up your Azure environment  :dancer:_
